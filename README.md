@@ -10,8 +10,8 @@ I have a list of goals for this game on a whole and will add more, and I will al
 - [ ] Add restaurant building features
 - [ ] Make customer AI
 - [ ] Get/Make models
-- [ ] Move the camera back and keep it stationary
+- [ ] Move the camera back and keep it stationary<br/>
 ...
 
-<sub>~Please go find some license to use for this~<sub>
+<sub>~Please go find some license to use for this~<sub><br/>
 <sub>Found one<sub>
