@@ -13,5 +13,5 @@ I have a list of goals for this game on a whole and will add more, and I will al
 - [ ] Move the camera back and keep it stationary
 ...
 
-<~>Please go find some license to use for this<~>
+<sub>~Please go find some license to use for this~<sub>
 <sub>Found one<sub>
