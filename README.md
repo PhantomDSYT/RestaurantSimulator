@@ -7,6 +7,7 @@ I have a list of goals for this game on a whole and will add more, and I will al
 - [X] AI Navigation (19/01/2022)
 - [X] Day and Night Cycle (20/01/2022)
 - [X] Move the camera back and keep it stationary (21/01/2022)
+- [X] Created Day Night Bar (25/01/2022)
 - [ ] Create UI for building features and also make it accessible using right click
 - [ ] Add restaurant building features
 - [ ] Make customer AI
